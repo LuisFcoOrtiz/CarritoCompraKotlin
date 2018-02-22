@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">shopping cart</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu">Menu</string>
+
+    <string name="action_settings">Configuration</string>
+    <string name="itemsCount">Quantity of products: %1$d | Spent: </string>
+
+    <string name="newItem">Add product</string>
+    <string name="deleteItem">Delete product</string>
+
+    <string name="dialogAdd">Add</string>
+    <string name="dialogNOAdd">Exit</string>
+    <string name="dialogRemove">Remove</string>
+    <string name="itemRemoved">Product removed</string>
+
+    <string name="dialogTitle">Add new product to the cart</string>
+    <string name="dialogTitleSCND">Remove product from the cart</string>
+    <string name="dialogTitleDelAll">Remove all(new purchase)</string>
+
+    <string name="messageDelAll">All the purchase has been removed</string>
+
+    <string name="menu_Option">What do you want to do?</string>
+
+    <string name="addCod">Code</string>
+    <string name="addName">Name</string>
+    <string name="addUrl">Web (op)</string>
+    <string name="addQuantity">Quantity</string>
+    <string name="addPrice">Price unit</string>
+
+    <string name="noAddItem">Process cancelated</string>
+
+</resources>

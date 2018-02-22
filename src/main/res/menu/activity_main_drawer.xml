@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/add"
+            android:title="@string/newItem" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/delete"
+            android:title="@string/deleteItem" />
+        <item
+            android:id="@+id/delete_all"
+            android:icon="@drawable/delete_all"
+            android:title="@string/dialogTitleDelAll" />
+    </group>
+
+</menu>

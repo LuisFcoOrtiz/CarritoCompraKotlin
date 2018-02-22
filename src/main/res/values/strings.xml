@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Carrito de la  compra</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu">Menú</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="itemsCount">Número de productos: %1$d | Gastado: </string>
+
+    <string name="newItem">Añadir producto</string>
+    <string name="deleteItem">Borrar producto</string>
+
+    <string name="dialogAdd">Añadir</string>
+    <string name="dialogNOAdd">Salir</string>
+    <string name="dialogRemove">Eliminar</string>
+    <string name="itemRemoved">Producto eliminado</string>
+
+    <string name="dialogTitle">Añadir productos al carrito</string>
+    <string name="dialogTitleSCND">Borrar producto del carrito</string>
+    <string name="dialogTitleDelAll">Borrar todo (nueva compra)</string>
+
+    <string name="messageDelAll">Toda la compra ha sido borrada</string>
+
+    <string name="menu_Option">Selecciona que deseas hacer</string>
+
+    <string name="addCod">Código</string>
+    <string name="addName">Nombre</string>
+    <string name="addUrl">Web (opc)</string>
+    <string name="addQuantity">Cantidad</string>
+    <string name="addPrice">Precio und</string>
+
+    <string name="noAddItem">Proceso cancelado</string>
+
+    <string name="languajeChanged">Has cambiado el idioma de la APP</string>
+
+</resources>
