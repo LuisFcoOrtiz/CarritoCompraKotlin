@@ -1,5 +1,5 @@
 # CarritoCompraKotlin
-App Android con base Kotlin para la gestión de un carrito de la compra, contiene Recylcer view, Navigation Drawer, preferencias, etc
+App Android con base Kotlin para la gestión de un carrito de la compra, contiene Recylcer view, Navigation Drawer, preferencias, APP bilingue (Inglés y Español), vista vertical y horizontal, etc
 
 ## Aplicación para la asignatura de diseño de interfaces DAM
 
